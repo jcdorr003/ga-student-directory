@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.jcdorr.com/ga-student-directory/",
+  "homepage": "https://jcdorr.com/ga-student-directory/",
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.9.0",
